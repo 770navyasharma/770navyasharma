@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/navyasharm34874" target="blank"><img src="https://img.shields.io/twitter/follow/navyasharm34874?logo=twitter&style=for-the-badge" alt="navyasharm34874" /></a> </p>
 
-- 🔭 I’m currently working on **Mood Based Song Recommendation System**
 
 - 🌱 I’m currently learning **Machine Learning, Web Development, Decision Making**
 
