@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Machine Learning, Web Development, Decision Making**
 
-- 👨‍💻 All of my projects are available at [https://navyssharma.odoo.com/](https://navyssharma.odoo.com/)
+- 👨‍💻 All of my projects are available at [https://navyas-portfolio.netlify.app/](https://navyas-portfolio.netlify.app/)
 
 - 💬 Ask me about **Scikit-Learn, Keras, Tensorflow, OpenCV**
 
 - 📫 How to reach me **navyasav06@gmail.com**
 
-- 📄 Know about my experiences [https://navyssharma.odoo.com/](https://navyssharma.odoo.com/)
+- 📄 Know about my experiences [https://navyas-portfolio.netlify.app/](https://navyas-portfolio.netlify.app/)
 
 - ⚡ Fun fact **Great sense of humor, often bringing a lighthearted touch to my technical discussions**
 
