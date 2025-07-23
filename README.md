@@ -8,11 +8,9 @@
 <p align="left"> <a href="https://twitter.com/navyasharm34874" target="blank"><img src="https://img.shields.io/twitter/follow/navyasharm34874?logo=twitter&style=for-the-badge" alt="navyasharm34874" /></a> </p>
 
 
-- 🌱 I’m currently learning **Machine Learning, Web Development, Decision Making**
+- 🌱 I’m currently learning **Machine Learning, Web Development, Data Science and C++**
 
-- 👨‍💻 All of my projects are available at [https://navyas-portfolio.netlify.app/](https://navyas-portfolio.netlify.app/)
-
-- 💬 Ask me about **Scikit-Learn, Keras, Tensorflow, OpenCV**
+- 👨‍💻 My portfolio is available at [https://navyas-portfolio.netlify.app/](https://navyas-portfolio.netlify.app/)
 
 - 📫 How to reach me **navyasav06@gmail.com**
 
